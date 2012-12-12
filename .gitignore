@@ -1,0 +1,5 @@
+*!
+/devsrc/*/pkg/
+/devsrc/*/src/
+/devsrc/*/*.tar*
+/devsrc/wine-silverlight/upstream-wine*

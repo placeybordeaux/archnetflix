@@ -18,7 +18,7 @@ usage:
 
 Options:
     --show-debug    Show Wine debug output.
-    --no-xttr       Don't perform extending file attribute checks.
+    --no-xattr       Don't perform extending file attribute checks.
 
 Extended file attributes are necessary for Netflix Digital Rights Management.";
 
